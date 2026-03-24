@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:gohconsulting.com)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
