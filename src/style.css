@@ -58,7 +58,7 @@ body {
 
 /* ─── HERO ───────────────────────────────────────────── */
 .hero {
-  padding: 100px 0 80px;
+  padding: 100px 0 20px;
   text-align: center;
 }
 
@@ -122,7 +122,7 @@ body {
 
 /* ─── CALENDLY SECTION ───────────────────────────────── */
 .calendly-section {
-  padding: 20px 0 40px;
+  padding: 0 0 40px;
   text-align: center;
 }
 
@@ -208,6 +208,16 @@ body {
   border-top: 1px solid #222;
   color: var(--text-muted);
   font-size: 0.9rem;
+}
+
+.footer-disclaimer {
+  margin-top: 12px;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.5;
 }
 
 /* ─── RESPONSIVE ─────────────────────────────────────── */
